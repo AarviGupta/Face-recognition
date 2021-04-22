@@ -1,0 +1,20 @@
+body{
+    background-color:cadetblue;
+    color:white;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+.name_of_people,#result_people_name,#result_people_accuracy{
+    color:black;
+}
+#camera{
+    border:2px double black;
+    width:350px;
+    height:300px;
+}
+#face{
+    width:200px;
+    height:150px;
+}
